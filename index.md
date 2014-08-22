@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Xingyu Na
+tagline: Tech Blog
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I do have a Google site [page](http://sites.google.com/site/naxingyu)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
+## Brief Intro
 
 In `_config.yml` remember to specify your own data:
     
