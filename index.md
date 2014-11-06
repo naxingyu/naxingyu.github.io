@@ -1,34 +1,21 @@
 ---
 layout: page
 title: Xingyu Na
-tagline: Tech Blog
+tagline: tech blog for R&D interests, speech technique
 ---
 {% include JB/setup %}
 
-I do have a Google site [page](http://sites.google.com/site/naxingyu)
+I do have a [Google site](http://sites.google.com/site/naxingyu) maintained at a very low frequency, but it's not dead.
 
-## Brief Intro
+If you want to know my career record, check out [LinkedIn!](http://cn.linkedin.com/pub/xingyu-na/)
 
-In `_config.yml` remember to specify your own data:
+## Research selfie
+
+I do speech research.
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+## Recent Posts
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Here is an archive of the blogs.
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,7 +25,6 @@ Here's a sample "posts list".
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+I haven't decide the usage of this site, but hey, why not start by writing something.
 
 
